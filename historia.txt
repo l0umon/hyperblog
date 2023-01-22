@@ -1,1 +1,3 @@
-Curso de introduccopn a git y git hub. Introducción a primeros comandos e inicialización
+Modificacion de contenido. 
+
+Se sigue con el curso de git
