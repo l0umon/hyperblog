@@ -1,3 +1,1 @@
-Modificacion de contenido. 
-
-Se sigue con el curso de git
+Mi nombre es Montserrat Gonzalez, tengo 23 años. Este es mi  primer curso de git.
