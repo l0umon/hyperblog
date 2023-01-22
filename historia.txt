@@ -1,5 +1,1 @@
-Curso de introduccopn a git y git hub 
-
-
-
-Ma;ana nos enfocaremos en su vida laboralS
+Mi nombre es Montserrat Gonzalez, tengo 23 años. Este es mi  primer curso de git.
